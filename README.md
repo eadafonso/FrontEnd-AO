@@ -33,7 +33,7 @@ Abaixo estão descritas as funcionalidades que você deve adicionar à sua aplic
 - Os campos de entrada (input's) não devem aceitar números negativos.
 - Para a primeira linha (Salas de Aula Teóricas), os campos de entrada (Funcionais e Não funcionais) devem estar bloqueados com valores 0.
 - Caso já existam dados na estrutura de dados definida, deve ser possível actualizá-los.
-  -Escolha qualquer framework com o qual você se sinta **confortável** em trabalhar. Este desafio não tem preferência por um específico, portanto escolha aquele com o qual você se sentirá mais confiante para apresentar e discutir durante a entrevista ;)
+- Escolha qualquer framework com o qual você se sinta **confortável** em trabalhar. Este desafio não tem preferência por um específico, portanto escolha aquele com o qual você se sentirá mais confiante para apresentar e discutir durante a entrevista ;)
 
 ---
 
